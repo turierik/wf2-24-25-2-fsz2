@@ -1,0 +1,18 @@
+Csoport ZH
+
+- 60 perc (16:10-17:10)
+
+1. tömbös számolgatós dolog
+ - jó lenne tömbfüggvénnyel (de nem muszáj)
+2. egyszerű eseménykezelés (1 elem : 1 dolog)
+ - innerText, innerHTML
+ - style
+3. delegálás 
+ - elemgenerálás: lista, táblázat, bármi más
+ - "buta" delegálás
+ - eseményobjektum
+
+- Segédeszköz: saját kód, MDN!
+- 10 feladat: 1 pont / feladat
+
+- EBR-en házi (nem kötelező): csütörtökön
